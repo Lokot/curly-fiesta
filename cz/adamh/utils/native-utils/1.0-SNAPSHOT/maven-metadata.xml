@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata modelVersion="1.1.0">
-  <groupId>ru.skysoftlab</groupId>
-  <artifactId>bulldog-board-cubietruck</artifactId>
+  <groupId>cz.adamh.utils</groupId>
+  <artifactId>native-utils</artifactId>
   <version>1.0-SNAPSHOT</version>
   <versioning>
     <snapshot>
-      <timestamp>20170502.063635</timestamp>
+      <timestamp>20170502.065024</timestamp>
       <buildNumber>1</buildNumber>
     </snapshot>
-    <lastUpdated>20170502063635</lastUpdated>
+    <lastUpdated>20170502065024</lastUpdated>
     <snapshotVersions>
       <snapshotVersion>
         <extension>jar</extension>
-        <value>1.0-20170502.063635-1</value>
-        <updated>20170502063635</updated>
+        <value>1.0-20170502.065024-1</value>
+        <updated>20170502065024</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>1.0-20170502.063635-1</value>
-        <updated>20170502063635</updated>
+        <value>1.0-20170502.065024-1</value>
+        <updated>20170502065024</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>

@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
-  <groupId>ru.skysoftlab</groupId>
-  <artifactId>bulldog-board-cubietruck</artifactId>
+  <groupId>cz.adamh.utils</groupId>
+  <artifactId>native-utils</artifactId>
   <versioning>
     <versions>
       <version>1.0-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20170502063635</lastUpdated>
+    <lastUpdated>20170502065024</lastUpdated>
   </versioning>
 </metadata>
