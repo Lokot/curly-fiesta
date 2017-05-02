@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>ru.skysoftlab</groupId>
+  <artifactId>vaadin-cronGen</artifactId>
+  <versioning>
+    <versions>
+      <version>1.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20170502073753</lastUpdated>
+  </versioning>
+</metadata>
